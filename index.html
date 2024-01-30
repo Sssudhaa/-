@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="x-icon" href="icon.png">
+    <title>The Important Question</title>
+</head>
+<body>
+    <div class="valentine-text">
+        <p>Heyy baby :)</p>
+        <p> </p>
+        <p>So I've been meaning to ask you this for a while but I didn't</p>
+            <p>know how to ask, so I thought this might be a good way to do it.</p>
+    </div>
+
+    <div class="container">
+        <!-- Heart elements -->
+        <div class="heart" style="top: 0%; left: 0%;"></div>
+        <div class="heart" style="top: 0%; right: 2%;"></div>
+        <div class="heart" style="bottom: 0%; left: 0%;"></div>
+        <div class="heart" style="bottom: 0%; right: 2%;"></div>
+
+        <!-- Valentine's theme button -->
+        <button id="valentineButton" class="valentine-button" onclick="showQuestion()">Ready for the question?</button>
+
+        <!-- Hidden label and buttons -->
+        <div id="questionContainer" class="hidden">
+            <label id="questionLabel" class="question-label">Will you be my valentine?</label>
+            <div class="button-container">
+                <button id="yesButton" class="answer-button" onclick="answerQuestion('yes')">Yes</button>
+                <button id="noButton" class="answer-button" onmouseover="moveNoButton()" onclick="answerQuestion('no')">No</button>
+            </div>
+        </div>
+
+        <!-- Special message div (initially hidden) -->
+        <div id="specialMessage" class="hidden special-message"></div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
