@@ -41,7 +41,7 @@ function displaySpecialMessage() {
         <p>Hehe :)</p>
         <p>I knew you'd say yes🌝</p>
         <p>Definitely didn't doubt you and create an anti-no button click</p>
-        <p>Oooohhhh, and did I mention how beautiful you are?❤️ or how amazing you are?❤️ or how gorgeous you are?❤️ or how sexy you are?❤️ or how hot you are?❤️ or how amazing you are?❤️ or how mean you are?❤️ or how nice you are?❤️ or how adorable you are?❤️ or how thicc you are?❤️ or how everything else I didn't mention?❤️</p>
+        <p>Oooohhhh, and did I mention how beautiful you are?❤️ or how amazing you are?❤️ or how gorgeous you are?❤️ or how sexy you are?❤️ or how hot you are?❤️ or how amazing you are?❤️or how nice you are?❤️ or how adorable you are?❤️ or how thicc you are?❤️ or how everything else I didn't mention?❤️</p>
         <p>Fun Fact of the day: I'm your Boyfriend and you're mine <3</p>
         <p>P.S I love you with all my heart and you know all those times i say things about me being there for you and you keep saying sorry? Yeah, I meant everyone of those. Plus you're stuck with me now. So enjoy the ride dumbass</p>
     <p>Oh and congratulations on finding a valentines :) <3</p>
